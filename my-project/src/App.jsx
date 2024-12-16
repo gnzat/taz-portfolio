@@ -9,7 +9,7 @@ import Technologies from "./components/Technologies";
 
 const App = () => {
   return (
-    <Router className="max-h-screen">
+    <Router className="max-h-fit">
       <div>
         <Navbar />
         <Routes>
